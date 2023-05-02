@@ -1,0 +1,254 @@
+﻿  64010605game.cpp
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(490,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(490,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(491,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(491,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(492,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(492,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(661,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(661,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(666,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(666,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(680,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(680,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(684,113): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(684,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(731,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(731,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(732,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(732,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(733,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(733,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(734,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(734,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(735,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(735,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(736,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(736,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(737,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(737,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(738,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(738,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(740,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(740,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(741,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(741,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(742,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(742,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(743,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(743,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(744,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(744,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(745,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(745,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(746,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(746,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(749,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(749,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(750,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(750,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(751,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(751,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(752,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(752,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(753,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(753,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(754,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(754,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(755,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(755,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(756,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(756,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(758,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(758,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(760,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(760,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(761,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(761,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(792,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(792,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(797,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(797,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(808,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(808,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(812,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(812,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(824,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(824,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(829,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(829,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(842,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(842,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(847,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(847,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(860,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(860,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(865,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(865,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(878,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(878,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(883,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(883,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(897,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(897,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(902,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(902,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(916,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(916,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(921,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(921,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(989,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(989,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(1043,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(1043,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(1284,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(1284,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(1289,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(1289,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(1306,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(1312,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\64010605game.cpp(244,6): warning C4101: 'state': unreferenced local variable
+  Main.cpp
+  Menu.cpp
+  Score.cpp
+  ScoreList.cpp
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\ScoreList.cpp(146,87): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\ScoreList.cpp(149,99): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\ScoreList.cpp(150,135): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\ScoreList.cpp(169,9): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\ScoreList.cpp(172,9): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Dell\Desktop\64010605\Source Code\64010605\Tutorial\ScoreList.cpp(200,58): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+  Generating code
+  356 of 368 functions (96.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tutorial.vcxproj -> C:\Users\Dell\Desktop\64010605\Source Code\64010605\x64\Release\Tutorial.exe
